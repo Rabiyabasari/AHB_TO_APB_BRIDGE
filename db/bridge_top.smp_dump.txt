@@ -1,0 +1,11 @@
+
+State Machine - |bridge_top|APB_CONTROLLER:A2|present
+Name present.wenablep present.writep present.wenable present.write present.wwait present.renable present.read present.idle 
+present.idle 0 0 0 0 0 0 0 0 
+present.read 0 0 0 0 0 0 1 1 
+present.renable 0 0 0 0 0 1 0 1 
+present.wwait 0 0 0 0 1 0 0 1 
+present.write 0 0 0 1 0 0 0 1 
+present.wenable 0 0 1 0 0 0 0 1 
+present.writep 0 1 0 0 0 0 0 1 
+present.wenablep 1 0 0 0 0 0 0 1 
