@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP/OneDrive/Desktop/Verilog_Labs/lab1/sim
+vAHB_MASTER
+Z0 !s110 1687527516
+!i10b 1
+!s100 oU?M`8GYD1@o7]Ta6:Bg63
+I9ffK2VGM0EC:Iobn1fjg33
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship
+w1687527487
+8C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\AHB_MASTER.v
+FC:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\AHB_MASTER.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1687527516.000000
+!s107 C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\AHB_MASTER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\AHB_MASTER.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@h@b_@m@a@s@t@e@r
+vAHB_SLAVE_INTERFACE
+!s110 1687527515
+!i10b 1
+!s100 cj<3b8c4_X^i5j3z1CCTe1
+ID8=SN<;YajLOUDjJ3z@=P1
+R1
+R2
+w1686214603
+8C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/AHB_SLAVE_INTERFACE.v
+FC:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/AHB_SLAVE_INTERFACE.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1687527515.000000
+!s107 C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/AHB_SLAVE_INTERFACE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/AHB_SLAVE_INTERFACE.v|
+!i113 1
+R5
+R6
+n@a@h@b_@s@l@a@v@e_@i@n@t@e@r@f@a@c@e
+vAPB_CONTROLLER
+R0
+!i10b 1
+!s100 z:U@hlnd;OA4MW;Ve0:3:1
+I48YZzl:PaJVSYN;z^?7@[2
+R1
+R2
+w1686655447
+8C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_CONTROLLER.v
+FC:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_CONTROLLER.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_CONTROLLER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_CONTROLLER.v|
+!i113 1
+R5
+R6
+n@a@p@b_@c@o@n@t@r@o@l@l@e@r
+vapb_interface
+R0
+!i10b 1
+!s100 <Z_JPAH=@I6UK0:N32QcV3
+I01gI8`znkh5=@E6`OK4?g2
+R1
+R2
+w1687410127
+8C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_INTERFACE.v
+FC:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_INTERFACE.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_INTERFACE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/APB_INTERFACE.v|
+!i113 1
+R5
+R6
+vbridge_top
+R0
+!i10b 1
+!s100 [<RlBE>DzjhZc[f[>He@c2
+IQ8nig@^9Jj3d`GN1nYzgF3
+R1
+R2
+w1687416510
+8C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/bridge_top.v
+FC:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/bridge_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/bridge_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/Projects/MavenSilicon_Internship/bridge_top.v|
+!i113 1
+R5
+R6
+vtop_tb
+R0
+!i10b 1
+!s100 VEP3OTcWo91TZzYKZ7k7X2
+I_R=HdWNNYbejNj`6kNXRO0
+R1
+R2
+w1687527226
+8C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\top_tb.v
+FC:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\top_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\HP\OneDrive\Desktop\Projects\MavenSilicon_Internship\top_tb.v|
+!i113 1
+R5
+R6
